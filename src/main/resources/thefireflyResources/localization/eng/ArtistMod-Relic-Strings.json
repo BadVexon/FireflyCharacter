@@ -1,0 +1,73 @@
+{
+  "thefirefly:StealthSystem": {
+    "NAME": "Stealth System",
+    "FLAVOR": "WARNING - DAMAGE CRITICAL!",
+    "DESCRIPTIONS": [
+      "Start each combat with #b2 #yStealth."
+    ]
+  },
+  "thefirefly:UpgradedSystem": {
+    "NAME": "The Unseen",
+    "FLAVOR": "System reformation complete.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL Every #b2 turns, gain #b1 #yStealth."
+    ]
+  },
+  "thefirefly:ShadowThruster": {
+    "NAME": "Stellar Engine",
+    "FLAVOR": "The light seeping from the miniature star within empowers everything it touches.",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. NL Whenever you play a #yPower, all enemies gain #b3 #yBlock at the end of each of their turns."
+    ]
+  },
+  "thefirefly:WeaponPreloader": {
+    "NAME": "Weapon Pre-Loader",
+    "FLAVOR": "Weapon preignition complete. Welcome back, operator.",
+    "DESCRIPTIONS": [
+      "The first Attack you draw each turn costs 0 until played."
+    ]
+  },
+  "thefirefly:LongRangeScanner": {
+    "NAME": "Long-Range Scanner",
+    "FLAVOR": "This device's design suggests potentially interstellar range.",
+    "DESCRIPTIONS": [
+      "Reveal the contents of ? rooms."
+    ]
+  },
+  "thefirefly:RepairArm": {
+    "NAME": "Repair Arm",
+    "FLAVOR": "This automated construction arm cannot be controlled.",
+    "DESCRIPTIONS": [
+      "Whenever you enter a Rest Site, convert Gold into HP until you are fully healed."
+    ]
+  },
+  "thefirefly:TimeCapsule": {
+    "NAME": "Time Capsule",
+    "FLAVOR": "ERROR: Matter collection procedure cannot terminate.",
+    "DESCRIPTIONS": [
+      "At the end of your turn, #yProvision #b1 card."
+    ]
+  },
+  "thefirefly:PlasmaFairy": {
+    "NAME": "Plasma Fairy",
+    "FLAVOR": "It seems to want your attention.",
+    "DESCRIPTIONS": [
+      "At the start of combat, shuffle a #yPlasma #yWisp+ into your draw pile."
+    ]
+  },
+  "thefirefly:AbsoluteTerror": {
+    "NAME": "Absolute Terror",
+    "FLAVOR": "I am ... me!",
+    "DESCRIPTIONS": [
+      "The first time you end your turn after playing #b0 or #b1 cards, gain #b40 #yBlock."
+    ]
+  },
+  "thefirefly:PhaseCrystal": {
+    "NAME": "Phase Crystal",
+    "FLAVOR": "This crystal shard polarizes the temperature on each of its facets.",
+    "DESCRIPTIONS": [
+      "Whenever your Stealth is removed, gain #b3 #yStrength this turn."
+    ]
+  }
+}

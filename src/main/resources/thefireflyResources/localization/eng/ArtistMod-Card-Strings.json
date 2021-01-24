@@ -1,0 +1,358 @@
+{
+  "thefirefly:AccountUncertainty": {
+    "NAME": "Account Uncertainty",
+    "DESCRIPTION": "At the start of each turn, draw 1 card, then thefirefly:Provision 1 card in your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL At the start of each turn, darw 1 card, then thefirefly:Provision 1 card in your hand."
+  },
+  "thefirefly:ArtillleryBeam": {
+    "NAME": "Artillery Beam",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies."
+  },
+  "thefirefly:Bombardment": {
+    "NAME": "Bombardment",
+    "DESCRIPTION": "Deal !D! damage to a random enemy !M! times."
+  },
+  "thefirefly:Boost": {
+    "NAME": "Boost",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn, draw 1 additional card."
+  },
+  "thefirefly:BreachMissile": {
+    "NAME": "Breach Missile",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable. NL Apply !M! Weak. NL Exhaust."
+  },
+  "thefirefly:ChargedLaser": {
+    "NAME": "Charged Laser",
+    "DESCRIPTION": "Deal !D! damage. NL Whenever you draw this card, increase its damage by !M! this combat."
+  },
+  "thefirefly:ConservationSubroutine": {
+    "NAME": "Conservation Subroutine",
+    "DESCRIPTION": "Energy is now conserved between turns."
+  },
+  "thefirefly:CoveringFire": {
+    "NAME": "Covering Fire",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !B! Block."
+  },
+  "thefirefly:DataMiner": {
+    "NAME": "Data Miner",
+    "DESCRIPTION": "Add a random Common card into your hand. NL Whenever you draw this card, shuffle a copy of it into your draw pile. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add a random card into your hand. NL Whenever you draw this card, shuffle a copy of it into your draw pile. NL Exhaust."
+  },
+  "thefirefly:DecoyShot": {
+    "NAME": "Decoy Shot",
+    "DESCRIPTION": "Deal !D! damage. NL Gain 1 thefirefly:Stealth."
+  },
+  "thefirefly:Defend": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "thefirefly:Dematerialize": {
+    "NAME": "Dematerialize",
+    "DESCRIPTION": "Gain !M! thefirefly:Stealth. NL Gain 2 Frail."
+  },
+  "thefirefly:BoltzmannBrain": {
+    "NAME": "Boltzmann Brain",
+    "DESCRIPTION": "At the start of your turn, put a random playable card from any pile into your hand."
+  },
+  "thefirefly:EnergyShield": {
+    "NAME": "Energy Shield",
+    "DESCRIPTION": "Gain !B! Block X times. NL Block is not removed at the start of your next X turns. NL Exhaust."
+  },
+  "thefirefly:Unburden": {
+    "NAME": "Unburden",
+    "DESCRIPTION": "Whenever you Exhaust a card this turn, gain !M! Dexterity. NL Exhaust."
+  },
+  "thefirefly:AlphaStrike": {
+    "NAME": "Alpha Strike",
+    "DESCRIPTION": "Lose all thefirefly:Stealth. NL Gain 2 thefirefly:Precision and draw !M! card for each thefirefly:Stealth lost. NL Deal !D! damage.",
+    "UPGRADE_DESCRIPTION": "Lose all thefirefly:Stealth. NL Gain 2 thefirefly:Precision and draw !M! cards for each thefirefly:Stealth lost. NL Deal !D! damage."
+  },
+  "thefirefly:Nova": {
+    "NAME": "Nova",
+    "DESCRIPTION": "Exhaust your hand. NL Add 1 thefirefly:Plasma_Wisp into your hand for each card Exhausted. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Exhaust your hand. NL Add 1 thefirefly:Plasma_Wisp+ into your hand for each card Exhausted. NL Exhaust."
+  },
+  "thefirefly:Lamentation": {
+    "NAME": "Lamentation",
+    "DESCRIPTION": "Whenever you Exhaust a card, deal !M! damage to ALL enemies."
+  },
+  "thefirefly:MirrorShield": {
+    "NAME": "Mirror Shield",
+    "DESCRIPTION": "Gain !B! Block. NL Next turn, deal damage to ALL enemies equal to Block lost this turn."
+  },
+  "thefirefly:HyperFocus": {
+    "NAME": "Hyper Focus",
+    "DESCRIPTION": "Discard all but one card from your hand. NL Gain 1 thefirefly:Precision for each card discarded."
+  },
+  "thefirefly:IonizedBarrier": {
+    "NAME": "Ionized Barrier",
+    "DESCRIPTION": "Whenever you gain Block, deal !M! damage back when attacked this turn."
+  },
+  "thefirefly:EMP": {
+    "NAME": "EMP",
+    "DESCRIPTION": "Remove all Block from ALL enemies. If no Block was removed, apply !M! Vulnerable and !M! Weak instead. NL Exhaust."
+  },
+  "thefirefly:ErraticMotions": {
+    "NAME": "Erratic Motions",
+    "DESCRIPTION": "Whenever you thefirefly:Provision or thefirefly:Retrieve a card, gain !M! Block."
+  },
+  "thefirefly:Escape": {
+    "NAME": "FTL!",
+    "DESCRIPTION": "Escape from a non-boss combat. NL Recieve no rewards."
+  },
+  "thefirefly:EvasiveManeuver": {
+    "NAME": "Evasive Maneuver",
+    "DESCRIPTION": "Gain !M! Dexterity this turn."
+  },
+  "thefirefly:Exile": {
+    "NAME": "Exile",
+    "DESCRIPTION": "Gain !M! thefirefly:Stealth. NL You cannot play Attacks for 2 turns."
+  },
+  "thefirefly:FlakCannon": {
+    "NAME": "Flak Cannon",
+    "DESCRIPTION": "Deal !D! damage. NL Discard 1 random card."
+  },
+  "thefirefly:FlareScreen": {
+    "NAME": "Flare Screen",
+    "DESCRIPTION": "Gain !B! Block. NL Whenever you are attacked this turn, deal !M! damage back."
+  },
+  "thefirefly:Flight": {
+    "NAME": "Flight",
+    "DESCRIPTION": "Gain !B! Block."
+  },
+  "thefirefly:FullProjection": {
+    "NAME": "Full Projection",
+    "DESCRIPTION": "Gain 1 thefirefly:Stealth. NL Gain !B! Block. NL Shuffle 1 Dazed into your draw pile."
+  },
+  "thefirefly:Prominence": {
+    "NAME": "Prominence",
+    "DESCRIPTION": "Add 1 thefirefly:Plasma_Wisp into your hand. NL Whenever a thefirefly:Plasma_Wisp is Exhausted, deal !M! damage to ALL enemies."
+  },
+  "thefirefly:Kugelblitz": {
+    "NAME": "Kugelblitz",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Take 10 damage."
+  },
+  "thefirefly:LaserBarrage": {
+    "NAME": "Laser Barrage",
+    "DESCRIPTION": "Deal !D! damage to a random enemy X times.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to a random enemy X+1 times."
+  },
+  "thefirefly:LaserMail": {
+    "NAME": "Laser Mail",
+    "DESCRIPTION": "Gain !quantum! Dexterity. NL Gain !M! Thorns.",
+    "UPGRADE_DESCRIPTION": "Gain !quantum! Dexterity. NL Gain !M! Thorns."
+  },
+  "thefirefly:MindControl": {
+    "NAME": "Mind Control",
+    "DESCRIPTION": "If the enemy intends to attack, it attacks a random enemy. NL Stun the enemy for 1 turn. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "If the enemy intends to attack, it attacks a random enemy. NL Stun the enemy for 1 turn."
+  },
+  "thefirefly:Missile": {
+    "NAME": "Missile",
+    "DESCRIPTION": "Remove the enemy's Block. NL Deal !D! damage. NL Exhaust."
+  },
+  "thefirefly:Pacify": {
+    "NAME": "Pacify",
+    "DESCRIPTION": "Enemy loses !M! Strength until attacked. NL Exhaust."
+  },
+  "thefirefly:PhantomStrike": {
+    "NAME": "Phantom Strike",
+    "DESCRIPTION": "Enemy loses !M! HP for each Stealth you have."
+  },
+  "thefirefly:StealthWeapon": {
+    "NAME": "Stealthed Weapon",
+    "DESCRIPTION": "Your next !M! Attacks do not reduce thefirefly:Stealth."
+  },
+  "thefirefly:PhaseShift": {
+    "NAME": "Phase Shift",
+    "DESCRIPTION": "Gain !M! thefirefly:Stealth. NL Draw 2 cards. NL Exhaust."
+  },
+  "thefirefly:PhotonBlast": {
+    "NAME": "Photon Blast",
+    "DESCRIPTION": "Ethereal. NL Exhaust a card in your hand. NL Increase this card's damage by 8 times its cost. NL If this card is Exhausted, deal !quantum! damage to ALL enemies.",
+    "UPGRADE_DESCRIPTION": "Ethereal. NL Exhaust 2 cards in your hand. NL Increase this card's damage by 8 times their costs. NL If this card is Exhausted, deal !quantum! damage to ALL enemies."
+  },
+  "thefirefly:PlasmaWisp": {
+    "NAME": "Plasma Wisp",
+    "DESCRIPTION": "Ethereal. NL Deal !D! damage."
+  },
+  "thefirefly:LifeSupport": {
+    "NAME": "Life Support",
+    "DESCRIPTION": "Ethereal. NL Heal !M! HP. NL Exhaust."
+  },
+  "thefirefly:EphemeronForm": {
+    "NAME": "Ephemeron Form",
+    "DESCRIPTION": "At the start of your turn, gain !M! thefirefly:Stealth. NL At the end of your turn, Exhaust your hand."
+  },
+  "thefirefly:Cosmogenesis": {
+    "NAME": "Cosmogenesis",
+    "DESCRIPTION": "Whenever you Exhaust 3 cards, add a random card into your hand.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you Exhaust 3 cards, add a random card into your hand."
+  },
+  "thefirefly:PotentAmmunition": {
+    "NAME": "Potent Ammunition",
+    "DESCRIPTION": "Increase the damage of an Attack in your hand by !M!."
+  },
+  "thefirefly:Preload": {
+    "NAME": "Prescience",
+    "DESCRIPTION": "Draw !M! cards. NL Provision !quantum! card.",
+    "UPGRADE_DESCRIPTION": "Draw !M! cards. NL Provision !quantum! cards."
+  },
+  "thefirefly:QuantumTunneling": {
+    "NAME": "Quantum Tunneling",
+    "DESCRIPTION": "Draw 2 cards. NL Gain [E] . NL Shuffle 1 Void into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Draw 2 cards. NL Gain [E] [E] . NL Shuffle 1 Void into your draw pile."
+  },
+  "thefirefly:Quine": {
+    "NAME": "Quine",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. NL Shuffle a copy of this card into your draw pile.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Shuffle a copy of this card into your draw pile. NL Exhaust."
+  },
+  "thefirefly:AbsorptionField": {
+    "NAME": "Absorption Field",
+    "DESCRIPTION": "Ethereal. NL Gain !B! Block. NL Block lost this turn increases the damage of Absorption Fields. NL When Exhausted, deal !M! damage to ALL enemies."
+  },
+  "thefirefly:RecollectionSubroutine": {
+    "NAME": "Recollection",
+    "DESCRIPTION": "At the start of your turn, thefirefly:Retrieve 1 card."
+  },
+  "thefirefly:Regeneration": {
+    "NAME": "Nano-Gel",
+    "DESCRIPTION": "Every other turn, prevent the next time you would lose HP."
+  },
+  "thefirefly:Reposition": {
+    "NAME": "Reposition",
+    "DESCRIPTION": "Gain !B! Block. NL thefirefly:Provision 1 card."
+  },
+  "thefirefly:RerouteCircuit": {
+    "NAME": "Reroute Circuit",
+    "DESCRIPTION": "Draw 1 less card for the next 2 turns. NL Gain [E] at the start of each turn."
+  },
+  "thefirefly:CreateClone": {
+    "NAME": "Create Clone",
+    "DESCRIPTION": "Revive from your next death this combat with 50% Max HP, or gain 2 Max HP at the end of combat."
+  },
+  "thefirefly:ReverseEngine": {
+    "NAME": "Reverse Engine",
+    "DESCRIPTION": "Gain !B! Block. thefirefly:Retrieve the last card in your discard pile."
+  },
+  "thefirefly:RollBack": {
+    "NAME": "Roll Back",
+    "DESCRIPTION": "thefirefly:Retrieve !M! card, then thefirefly:Provision !M! card. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "thefirefly:Retrieve !M! card, then thefirefly:Provision !M! card."
+  },
+  "thefirefly:ShieldArray": {
+    "NAME": "Shield Array",
+    "DESCRIPTION": "Gain !B! Block !M! times."
+  },
+  "thefirefly:ShieldGenerator": {
+    "NAME": "Shield Generator",
+    "DESCRIPTION": "Gain !M! Plated Armor."
+  },
+  "thefirefly:SiegeLaser": {
+    "NAME": "Siege Laser",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy does not intend to attack, deal !D! damage again."
+  },
+  "thefirefly:HyperspaceAssault": {
+    "NAME": "Hyperspace Assault",
+    "DESCRIPTION": "Gain !M! thefirefly:Precision. NL Cards do not reduce thefirefly:Precision or thefirefly:Stealth this turn."
+  },
+  "thefirefly:LustForEternity": {
+    "NAME": "Lust for Eternity",
+    "DESCRIPTION": "Cards do not reduce thefirefly:Precision or thefirefly:Stealth for !M! turns."
+  },
+  "thefirefly:SoulStrike": {
+    "NAME": "Soul Strike",
+    "DESCRIPTION": "Deal damage equal to !M! times the number of unique cards in your deck.",
+    "EXTENDED_DESCRIPTION": [
+      " NL (Deals !D! damage.)"
+    ]
+  },
+  "thefirefly:SpatialRift": {
+    "NAME": "Spatial Rift",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Costs 1 less for each thefirefly:Stealth stack."
+  },
+  "thefirefly:StarCinder": {
+    "NAME": "Star Cinder",
+    "DESCRIPTION": "Add 1 thefirefly:Plasma_Wisp into your hand. NL Exhaust.",
+    "UPGRADE_DESCRIPTION": "Add 1 thefirefly:Plasma_Wisp into your hand."
+  },
+  "thefirefly:SteadyAim": {
+    "NAME": "Steady Aim",
+    "DESCRIPTION": "Gain !M! thefirefly:Precision."
+  },
+  "thefirefly:StealthMode": {
+    "NAME": "Stealth Mode",
+    "DESCRIPTION": "Gain X thefirefly:Stealth. NL Add a copy of this into your draw pile in 3 turns.",
+    "UPGRADE_DESCRIPTION": "Gain X+1 thefirefly:Stealth. NL Add a copy of this into your draw pile in 3 turns."
+  },
+  "thefirefly:NebulaVeil": {
+    "NAME": "Nebula Veil",
+    "DESCRIPTION": "Whenever you Exhaust 3 cards, gain 1 thefirefly:Stealth.",
+    "UPGRADE_DESCRIPTION": "Innate. NL Whenever you Exhaust 3 cards, gain 1 thefirefly:Stealth."
+  },
+  "thefirefly:StoredPower": {
+    "NAME": "Stored Power",
+    "DESCRIPTION": "Gain !M! [E] . NL [E] gain increases by 1 when drawn. NL Exhaust."
+  },
+  "thefirefly:Strike": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "thefirefly:Superspeed": {
+    "NAME": "Superspeed",
+    "DESCRIPTION": "Play the top !M! cards of your draw pile."
+  },
+  "thefirefly:TachyonBeam": {
+    "NAME": "Tachyon Beam",
+    "DESCRIPTION": "Deal !D! damage. NL Add 2 Void into your draw pile."
+  },
+  "thefirefly:AutoTargeting": {
+    "NAME": "Auto-Targeting",
+    "DESCRIPTION": "At the start of your turn, gain !M! thefirefly:Precision."
+  },
+  "thefirefly:Teleport": {
+    "NAME": "Blink",
+    "DESCRIPTION": "Gain !B! Block. NL Discard a random card. NL Draw !M! card.",
+    "UPGRADE_DESCRIPTION": "Gain !B! Block. NL Discard a random card. NL Draw !M! cards."
+  },
+  "thefirefly:Distort": {
+    "NAME": "Distort",
+    "DESCRIPTION": "Apply !M! thefirefly:Unreality. NL thefirefly:Retrieve a random card."
+  },
+  "thefirefly:Rend": {
+    "NAME": "Rend",
+    "DESCRIPTION": "Deal damage equal to the enemy's thefirefly:Unreality. NL Apply 5 thefirefly:Unreality.",
+    "UPGRADE_DESCRIPTION": "Apply 5 thefirefly:Unreality. NL Deal damage equal to the enemy's thefirefly:Unreality."
+  },
+  "thefirefly:SearingEnigma": {
+    "NAME": "Searing Enigma",
+    "DESCRIPTION": "Apply !M! thefirefly:Fissure. At the end of your turn, if this is in your hand, take 6 damage."
+  },
+  "thefirefly:Paradox": {
+    "NAME": "Paradox",
+    "DESCRIPTION": "Apply !M! Unreality. NL Gain 3 thefirefly:Unreality. NL Draw 1 card."
+  },
+  "thefirefly:Ruminate": {
+    "NAME": "Ruminate",
+    "DESCRIPTION": "Exhaust a random card in your hand. NL Add a thefirefly:Paradox into your hand.",
+    "UPGRADE_DESCRIPTION": "Exhaust a card in your hand. NL Add a thefirefly:Paradox+ into your hand."
+  },
+  "thefirefly:Unweft": {
+    "NAME": "Unweft",
+    "DESCRIPTION": "Lose all thefirefly:Stealth. NL Apply !M! thefirefly:Fissure to ALL enemies for each thefirefly:Stealth lost."
+  },
+  "thefirefly:ParadoxEngine": {
+    "NAME": "Paradox Engine",
+    "DESCRIPTION": "Whenever you play a card this turn, draw !M! card and gain 3 thefirefly:Unreality.",
+    "UPGRADE_DESCRIPTION": "Whenever you play a card this turn, draw !M! cards and gain 6 thefirefly:Unreality."
+  },
+  "thefirefly:InterceptingShot": {
+    "NAME": "Intercepting Shot",
+    "DESCRIPTION": "Deal !D! damage. NL If the enemy intends to attack, they lose !M! Strength this turn."
+  },
+  "thefirefly:AuroralDischarge": {
+    "NAME": "Auroral Discharge",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL If your hand contains a Power, add 1 thefirefly:Plasma_Wisp into your hand.",
+    "UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL If your hand contains a Power, add 1 thefirefly:Plasma_Wisp+ into your hand."
+  }
+}

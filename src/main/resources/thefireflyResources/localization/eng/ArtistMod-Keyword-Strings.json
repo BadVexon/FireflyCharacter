@@ -1,0 +1,67 @@
+[
+  {
+    "PROPER_NAME": "Retrieve",
+    "NAMES": [
+      "retrieve",
+      "retrieve"
+    ],
+    "DESCRIPTION": "Return a card from your discard pile to your hand."
+  },
+  {
+    "PROPER_NAME": "Provision",
+    "NAMES": [
+      "provision",
+      "provisioned"
+    ],
+    "DESCRIPTION": "Shuffle a card from your hand into your draw pile."
+  },
+  {
+    "PROPER_NAME": "Stealth",
+    "NAMES": [
+      "stealth"
+    ],
+    "DESCRIPTION": "Halves incoming damage. Lose #b1 Stealth at the end of your turn and when playing an #yAttack."
+  },
+  {
+    "PROPER_NAME": "Precision",
+    "NAMES": [
+      "precision"
+    ],
+    "DESCRIPTION": "Increases the damage of your next #yAttack by #b20% per stack. Reduced by #b1 whenever a non-Attack card is played."
+  },
+  {
+    "PROPER_NAME": "Unreality",
+    "NAMES": [
+      "unreality"
+    ],
+    "DESCRIPTION": "Reduces Max HP while applied. Your Unreality is removed at the end of combat."
+  },
+  {
+    "PROPER_NAME": "Fissure",
+    "NAMES": [
+      "fissure"
+    ],
+    "DESCRIPTION": "Applies #yUnreality each turn."
+  },
+  {
+    "PROPER_NAME": "Plasma Wisp",
+    "NAMES": [
+      "plasma wisp",
+      "plasma wisp+",
+      "plasma_wisp",
+      "plasma wisps",
+      "plasma_wisps"
+    ],
+    "DESCRIPTION": "Plasma Wisps are #b1 cost #yEthereal Attack cards."
+  },
+  {
+    "PROPER_NAME": "Paradox",
+    "NAMES": [
+      "paradox",
+      "paradox+",
+      "paradoxes",
+      "paradoxes+"
+    ],
+    "DESCRIPTION": "Paradoxes are #b0 cost Skill cards that apply #yUnreality to enemies and you, then draw a card."
+  }
+]
